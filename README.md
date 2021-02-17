@@ -1,1 +1,1 @@
-**This is a completed product's repository".
+**This is a completed product's repository.**
